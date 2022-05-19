@@ -1,0 +1,15 @@
+C:\Data\Education\3 курс\2 семестр\C#\lab6\bin\Debug\net6.0\lab6.exe
+C:\Data\Education\3 курс\2 семестр\C#\lab6\bin\Debug\net6.0\lab6.deps.json
+C:\Data\Education\3 курс\2 семестр\C#\lab6\bin\Debug\net6.0\lab6.runtimeconfig.json
+C:\Data\Education\3 курс\2 семестр\C#\lab6\bin\Debug\net6.0\lab6.dll
+C:\Data\Education\3 курс\2 семестр\C#\lab6\bin\Debug\net6.0\lab6.pdb
+C:\Data\Education\3 курс\2 семестр\C#\lab6\obj\Debug\net6.0\lab6.csproj.AssemblyReference.cache
+C:\Data\Education\3 курс\2 семестр\C#\lab6\obj\Debug\net6.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Education\3 курс\2 семестр\C#\lab6\obj\Debug\net6.0\lab6.AssemblyInfoInputs.cache
+C:\Data\Education\3 курс\2 семестр\C#\lab6\obj\Debug\net6.0\lab6.AssemblyInfo.cs
+C:\Data\Education\3 курс\2 семестр\C#\lab6\obj\Debug\net6.0\lab6.csproj.CoreCompileInputs.cache
+C:\Data\Education\3 курс\2 семестр\C#\lab6\obj\Debug\net6.0\lab6.dll
+C:\Data\Education\3 курс\2 семестр\C#\lab6\obj\Debug\net6.0\refint\lab6.dll
+C:\Data\Education\3 курс\2 семестр\C#\lab6\obj\Debug\net6.0\lab6.pdb
+C:\Data\Education\3 курс\2 семестр\C#\lab6\obj\Debug\net6.0\lab6.genruntimeconfig.cache
+C:\Data\Education\3 курс\2 семестр\C#\lab6\obj\Debug\net6.0\ref\lab6.dll
